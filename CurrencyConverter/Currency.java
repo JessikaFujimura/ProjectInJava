@@ -1,3 +1,4 @@
+package CurrencyConverter;
 import java.math.BigDecimal;
 
 public class Currency {
